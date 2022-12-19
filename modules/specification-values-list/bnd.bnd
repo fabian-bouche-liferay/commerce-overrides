@@ -1,0 +1,5 @@
+Bundle-Name: specification-values-list
+Bundle-SymbolicName: com.liferay.samples.fbo.specifications.values.list
+Bundle-Version: 1.0.0
+
+Web-ContextPath: /specification-values-list
